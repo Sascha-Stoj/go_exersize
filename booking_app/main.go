@@ -1,7 +1,7 @@
 package main
 
 import (
-	"booking-app/booking_app/helper"
+	"booking-app/helper"
 	"fmt"
 )
 
